@@ -27,7 +27,7 @@ ScriptCam Pro collects minimal data to provide core functionality:
 - No account creation required
 
 ## Contact
-For questions about this privacy policy, contact: [your-email@example.com]
+For questions about this privacy policy, contact: [efekanesirgeme-at-gmail-dot-com]
 
 ## Changes
 We may update this privacy policy. Changes will be posted on this page.
